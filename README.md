@@ -1,7 +1,7 @@
-**DISCLAIMER**: FlappyGrant Auth ***DOES NOT*** to using the current system [FlappyGrant Website's](https://www.flappygrant.com/?from=github) uses. It uses a system more link Google sign-in's.
+**DISCLAIMER**: FlappyGrant Auth ***DOES NOT*** use the current system [FlappyGrant's Website](https://www.flappygrant.com/?from=github) uses. It uses a system more like Google sign-in's.
 
 # FlappyGrant Auth
-Use a customized FlappyGrant sign-in (only used on website for some purposes) in replace of Google's nonsense.
+Use a customized FlappyGrant sign-in system in replace of Google's nonsense.
 Have you ever needed google sign-in but you don't want to deal with nonsense such as verification and limiting? FlappyGrant Auth is here in a clutch!
 
 ## Features
